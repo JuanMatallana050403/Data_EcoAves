@@ -1,0 +1,6 @@
+.venv/
+data/
+data.zip
+__pycache__/
+*.keras
+*.tflite
